@@ -1,4 +1,4 @@
-alias update="sudo apt update && sudo apt upgrade"
+alias update="sudo nala update && sudo nala upgrade"
 
 alias l="ls -lohv --time-style=long-iso --group-directories-first --color=auto"
 alias ll="ls -Alohv --time-style=long-iso --group-directories-first --color=auto"
